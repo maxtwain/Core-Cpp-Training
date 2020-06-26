@@ -1,2 +1,2 @@
 # C++
-This repository contains source code for exercises from Deitel's 10th edition C++ book named "How To Program".  My core C++ education began January 2017 and ended July 2017.
+This repository contains source code for exercises from [Deitel's 10th edition C++ book named "How To Program"](https://www.amazon.com/How-Program-10th-Paul-Deitel/dp/9332585733/ref=sr_1_1?crid=3JCN19OWDQCKV&dchild=1&keywords=c%2B%2B+how+to+program+10th+edition&qid=1593138294&s=books&sprefix=c%2B%2B+how+to+progra%2Cstripbooks%2C176&sr=1-1).  My core C++ education began January 2017 and ended July 2017.
